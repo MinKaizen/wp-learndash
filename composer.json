@@ -1,0 +1,13 @@
+{
+    "name": "minkaizen/wp-learndash",
+    "description": "Learndash",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Martin Cao",
+            "email": "martin.g.cao@gmail.com"
+        }
+    ],
+    "require": {}
+}
