@@ -3,6 +3,7 @@
     "description": "Learndash",
     "type": "wordpress-plugin",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Martin Cao",
